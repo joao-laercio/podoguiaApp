@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "podoguiaApp",
+    "slug": "podoguiaApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "87382c47-e7db-4e9c-a2a3-cda317de39f0"
+      }
+    }
+  }
+}
